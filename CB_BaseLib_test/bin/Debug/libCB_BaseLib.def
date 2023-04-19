@@ -1,0 +1,5 @@
+EXPORTS
+    Add @1
+    DllMain @2
+    SomeFunction @3
+    SomeFunction01 @4

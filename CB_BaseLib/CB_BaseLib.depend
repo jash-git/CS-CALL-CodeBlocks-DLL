@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681885801 source:c:\users\devel\desktop\cb_dll_project-master\cb_baselib\main.cpp
+	<iostream>
+	"main.h"
+	"stdio.h"
+
+1681885902 c:\users\devel\desktop\cb_dll_project-master\cb_baselib\main.h
+	<windows.h>
+
